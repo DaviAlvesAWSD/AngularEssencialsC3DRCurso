@@ -1,0 +1,21 @@
+form
+{
+    display:flex;
+    flex-direction: column;
+}
+
+.titulo
+{
+    text-align: center;
+}
+
+button
+{
+    margin-right: 10px;
+}
+
+.salvar
+{
+    background-color:#ef5350 ;
+    color: white;
+}

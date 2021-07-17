@@ -1,0 +1,21 @@
+form
+{
+    display:flex;
+    flex-direction: column;
+}
+
+.titulo
+{
+    text-align: center;
+}
+
+button
+{
+    margin-right: 10px;
+}
+
+.update
+{
+    background-color:#ef5350 ;
+    color: white;
+}

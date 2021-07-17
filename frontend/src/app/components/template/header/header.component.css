@@ -1,0 +1,33 @@
+.header
+{
+    display: flex;
+    align-items: center;
+    height: 80px ;
+    background-color: #f5f4f4ea ;
+}
+
+.header a 
+{
+    display: flex;
+    align-items: center;
+    text-decoration: none;
+    color: black;
+}
+
+.header .logo
+{
+    max-height: 32px;
+}
+
+.header .title-group
+{
+
+    padding-left: 25px;
+
+}
+.header .title-group
+{
+
+    padding-right: 5px;
+
+}
