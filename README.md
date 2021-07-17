@@ -1,7 +1,7 @@
 # AngularEssencialsC3DRCurso
 Projeto realizado durante a realização do curso AngularEssencials da c3dr
 
-Agora que pretendo melhorar ainda mais meu perfil proficional comecei a upar alguns projetos meus que eu não tinha upado antes, por conta disso alguns projetos como esse não possuem todo o acompanhamento do processo. 
+Agora que pretendo melhorar ainda mais meu perfil profissional comecei a upar alguns projetos meus que eu não tinha upado antes, por conta disso alguns projetos como esse não possuem todo o acompanhamento do processo. 
 
 # Pagina inicial da aplicação
 ![home](https://user-images.githubusercontent.com/75328283/126039645-c7be6743-7f00-4f7e-b3fa-e0ae0c2fdf8f.png)
